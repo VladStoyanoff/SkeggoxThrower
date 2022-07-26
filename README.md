@@ -6,6 +6,6 @@ Download the game on Itch.io by clicking [here]("https://vladstoyanoff.itch.io/s
 
 **Contributions**:
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Gameplay: Vlad Stoyanoff
