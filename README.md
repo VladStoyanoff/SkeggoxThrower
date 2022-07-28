@@ -4,6 +4,8 @@ Skeggox Thrower is a top-down arcade game where you must avoid being hit by the 
 
 Download the game on Itch.io by clicking [here](https://vladstoyanoff.itch.io/skeggox-thrower).
 
+View a demo of the game by clicking [here](https://www.youtube.com/watch?v=gUsPqg3yLeg&feature=emb_title).
+
 # **Contributions**:
 
 
