@@ -1398,11 +1398,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -2243,11 +2243,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8719669910861616452, guid: 5a3bb89a6bbdcda4e976c9854f48b096, type: 3}
       propertyPath: m_AnchorMin.x
@@ -2450,6 +2450,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cc28a2e47cf93b14a8331bdd5f55ebf7, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cc28a2e47cf93b14a8331bdd5f55ebf7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: cc28a2e47cf93b14a8331bdd5f55ebf7, type: 3}
       propertyPath: m_Layer
@@ -2681,7 +2685,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: cc28a2e47cf93b14a8331bdd5f55ebf7, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: cc28a2e47cf93b14a8331bdd5f55ebf7, type: 3}
       propertyPath: m_TagString
